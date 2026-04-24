@@ -1,5 +1,5 @@
 }
-Brute Force Attack Detection using Splunk
+**Brute Force Attack Detection using Splunk**
 
 Objective
 To detect brute force login attempts by analyzing system log data.
@@ -17,8 +17,7 @@ Key Findings
 - Found an IP making multiple failed login attempts
 - Detected unusual spike in login failures
 
-Screenshots
-(Add screenshots below)
+Screenshots:
 
 What I Learned
 - Basics of log analysis
