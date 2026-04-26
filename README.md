@@ -35,7 +35,7 @@ I created a small dataset with the following fields:
 * Filtered results where attempts were greater than 5
 
 #### SPL QUERY
-```spl
+
 * Detection Query:
 index=soc_project EventCode=4625
 | stats count by Account_Name, src_ip
@@ -50,7 +50,6 @@ index=soc_project (Account_Name="john" OR Account_Name="admin")
 * Login Success Check:
 index=soc_project (EventCode=4625 OR EventCode=4624)
 | stats count by Account_Name, EventCode
-```markdown
 
 #### RESULTS
 I found multiple failed login attempts from the same IPs:
