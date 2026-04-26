@@ -62,17 +62,17 @@ I created an alert in Splunk that triggers when this condition is met, so it can
 
 SCREENSHOTS
 1. Data set upload
-<img width="1512" height="829" alt="Addingdataset" src="https://github.com/user-attachments/assets/da316ac1-e520-40ff-98b4-05efc0c3f7e9" />
+  <img width="1512" height="829" alt="Addingdataset" src="https://github.com/user-attachments/assets/da316ac1-e520-40ff-98b4-05efc0c3f7e9" />
 
 2. Data Ingestion
-![Data](<img width="1512" height="829" alt="data_ingestion" src="https://github.com/user-attachments/assets/ac2d62ef-c67d-4ce5-93e2-4dd00da7024b" />
-)
+  <img width="1512" height="829" alt="data_ingestion" src="https://github.com/user-attachments/assets/ac2d62ef-c67d-4ce5-93e2-4dd00da7024b" />
 
-### 2. Detection Results
-![Detection](screenshots/detection_results.png)
+3. Detection Results
+  <img width="1510" height="614" alt="detection_results" src="https://github.com/user-attachments/assets/0146f599-2185-404f-bb5c-e274f8797fc5" />
 
-### 3. Investigation Timeline
-![Investigation](screenshots/investigation_timeline.png)
+4. Investigation Timeline
+  <img width="1512" height="805" alt="investigation_timeline" src="https://github.com/user-attachments/assets/a6776828-4518-49a0-a372-372d50508c91" />
+
 
 ### 4. Dashboard Visualization
 ![Dashboard](screenshots/dashboard.png)
