@@ -61,7 +61,7 @@ Both showed more than 5 failed attempts, which is a strong indicator of a brute 
 
 ALERT
 
-I created an alert in Splunk that triggers when this condition is met, so it can be monitored in real time.
+I created an alert in Splunk that triggers when the detection condition is met, enabling real-time monitoring of suspicious authentication activity. This simulates a SIEM correlation rule used in SOC environments to detect brute force attacks.
 
 SCREENSHOTS
 1. Data set upload
