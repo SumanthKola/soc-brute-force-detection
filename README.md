@@ -35,6 +35,7 @@ WHAT I DID
 * Filtered results where attempts were greater than 5
 
 SPL QUERY
+
 Detection Query:
 index=soc_project EventCode=4625
 | stats count by Account_Name, src_ip
