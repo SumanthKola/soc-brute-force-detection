@@ -36,6 +36,13 @@ I created a small dataset with the following fields:
 
 #### SPL QUERY
 
+### Detection Query
+```spl
+index=soc_project EventCode=4625
+| stats count by Account_Name, src_ip
+| where count > 5
+| sort -count
+
 * Detection Query:
 index=soc_project EventCode=4625
 | stats count by Account_Name, src_ip
