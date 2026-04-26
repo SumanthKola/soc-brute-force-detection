@@ -36,18 +36,18 @@ WHAT I DID
 
 SPL QUERY
 
-Detection Query:
+* Detection Query:
 index=soc_project EventCode=4625
 | stats count by Account_Name, src_ip
 | where count > 5
 | sort -count
 
-Investigation Query:
+* Investigation Query:
 index=soc_project (Account_Name="john" OR Account_Name="admin")
 | table _time, Account_Name, src_ip, EventCode
 | sort _time
 
-Login Success Check:
+* Login Success Check:
 index=soc_project (EventCode=4625 OR EventCode=4624)
 | stats count by Account_Name, EventCode
 
