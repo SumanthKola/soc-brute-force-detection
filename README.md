@@ -35,7 +35,7 @@ WHAT I DID
 * Filtered results where attempts were greater than 5
 
 SPL QUERY
-  Dectection Query:
+  Detection Query:
     index=soc_project EventCode=4625
     | stats count by Account_Name, src_ip
     | where count > 5
@@ -97,4 +97,4 @@ This project helped me understand how to:
 * Work with log data in Splunk
 * Write basic SPL queries
 * Detect simple attack patterns
-* Think like a SOC analyst
+* Think like a SOC Analyst
