@@ -73,12 +73,11 @@ SCREENSHOTS
 4. Investigation Timeline
   <img width="1512" height="805" alt="investigation_timeline" src="https://github.com/user-attachments/assets/a6776828-4518-49a0-a372-372d50508c91" />
 
+5. Dashboard Visualization
+  <img width="1512" height="731" alt="Dashboard" src="https://github.com/user-attachments/assets/b5f9a64e-b1b3-440d-90e8-c3d7bbd6bd82" />
 
-### 4. Dashboard Visualization
-![Dashboard](screenshots/dashboard.png)
-
-### 5. Alert Configuration
-![Alert](screenshots/alert_config.png)
+6. Alert Configuration
+  <img width="1512" height="390" alt="Alert" src="https://github.com/user-attachments/assets/b7afb0aa-4cc6-4c78-b60d-b0c014312b13" />
 
 
 WHAT I LEARNED
