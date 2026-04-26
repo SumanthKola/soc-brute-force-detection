@@ -1,6 +1,6 @@
 Brute Force Attack Detection using Splunk
 
-OVERVIEW
+##OVERVIEW
 
 This project shows how I used Splunk to detect brute force login attempts from log data. The goal was to simulate what a SOC analyst would do when monitoring failed logins.
 
