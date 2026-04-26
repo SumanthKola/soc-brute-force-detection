@@ -64,17 +64,27 @@ SCREENSHOTS
 1. Data set upload
   <img width="1512" height="829" alt="Addingdataset" src="https://github.com/user-attachments/assets/da316ac1-e520-40ff-98b4-05efc0c3f7e9" />
 
+
+
 2. Data Ingestion
   <img width="1512" height="829" alt="data_ingestion" src="https://github.com/user-attachments/assets/ac2d62ef-c67d-4ce5-93e2-4dd00da7024b" />
+
+
 
 3. Detection Results
   <img width="1510" height="614" alt="detection_results" src="https://github.com/user-attachments/assets/0146f599-2185-404f-bb5c-e274f8797fc5" />
 
+
+
 4. Investigation Timeline
   <img width="1512" height="805" alt="investigation_timeline" src="https://github.com/user-attachments/assets/a6776828-4518-49a0-a372-372d50508c91" />
 
+
+
 5. Dashboard Visualization
   <img width="1512" height="731" alt="Dashboard" src="https://github.com/user-attachments/assets/b5f9a64e-b1b3-440d-90e8-c3d7bbd6bd82" />
+
+
 
 6. Alert Configuration
   <img width="1512" height="390" alt="Alert" src="https://github.com/user-attachments/assets/b7afb0aa-4cc6-4c78-b60d-b0c014312b13" />
